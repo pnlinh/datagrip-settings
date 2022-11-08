@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="139.180.223.111" id="89391c98-5c2c-4039-93c3-f42791bed649" keyPath="$USER_HOME$/.ssh/pnlinh" port="22252" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
